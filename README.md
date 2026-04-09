@@ -18,12 +18,17 @@ Ask questions, upload PDF textbooks, and get answers grounded in your documents 
 - 🎨 **Modern UI** – Light/dark theme, responsive layout, source citations
 - 🔐 **100% local** – No API keys, no external calls (except optional web search)
 
-## 🖥️ Demo
+## 🖥️ Interface Preview
 
-![Screenshot placeholder](screenshot.png)  
-![Screenshot placeholder](screenshot1.png)
-![Screenshot placeholder](screenshot.png)
-*(Add a screenshot of the Gradio interface here)*
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="screenshot.png" width="100%"><br><sub>Chat panel</sub></td>
+      <td><img src="screenshot1.png" width="100%"><br><sub>Settings sidebar</sub></td>
+      <td><img src="screenshot2.png" width="100%"><br><sub>Web search</sub></td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Quick Start
 
