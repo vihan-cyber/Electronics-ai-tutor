@@ -21,6 +21,8 @@ Ask questions, upload PDF textbooks, and get answers grounded in your documents 
 ## 🖥️ Demo
 
 ![Screenshot placeholder](screenshot.png)  
+![Screenshot placeholder](screenshot1.png)
+![Screenshot placeholder](screenshot.png)
 *(Add a screenshot of the Gradio interface here)*
 
 ## 🚀 Quick Start
