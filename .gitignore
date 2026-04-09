@@ -1,0 +1,23 @@
+cat > .gitignore << EOF
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Project specific
+favicon.ico         # (if you don't have one)
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+EOF
+
+# Large generated files
+chroma_db/
+electronics_docs/
+processed_pdfs.json
+*.pdf
