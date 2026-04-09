@@ -21,13 +21,13 @@ Ask questions, upload PDF textbooks, and get answers grounded in your documents 
 ## 🖥️ Interface Preview
 
 **Main chat view**  
-![Chat interface](screenshot.png)
+![Chat interface](https://github.com/vihan-cyber/Electronics-ai-tutor/blob/main/Screenshot.png)
 
-**Sidebar settings**  
-![Sidebar](screenshot1.png)
+**Search bar settings**  
+![Search bar](https://github.com/vihan-cyber/Electronics-ai-tutor/blob/main/Screenshot1.png)
 
 **Settings**  
-![Web search](screenshot2.png)
+![Sidebar](https://github.com/vihan-cyber/Electronics-ai-tutor/blob/main/Screenshot2.png)
 
 ## 🚀 Quick Start
 
