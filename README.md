@@ -20,15 +20,14 @@ Ask questions, upload PDF textbooks, and get answers grounded in your documents 
 
 ## 🖥️ Interface Preview
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="screenshot.png" width="100%"><br><sub>Chat panel</sub></td>
-      <td><img src="screenshot1.png" width="100%"><br><sub>Settings sidebar</sub></td>
-      <td><img src="screenshot2.png" width="100%"><br><sub>Web search</sub></td>
-    </tr>
-  </table>
-</div>
+**Main chat view**  
+![Chat interface](screenshot.png)
+
+**Sidebar settings**  
+![Sidebar](screenshot1.png)
+
+**Settings**  
+![Web search](screenshot2.png)
 
 ## 🚀 Quick Start
 
